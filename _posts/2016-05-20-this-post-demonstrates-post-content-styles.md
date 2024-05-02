@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Lorem ipsum dolor sit amet"
 categories: junk
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Author1
+- Author2
 meta: "Springfield"
 ---
 
