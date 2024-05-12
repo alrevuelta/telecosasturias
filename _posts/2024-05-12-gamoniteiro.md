@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gamoniteiro: La Nochebuena en el techo de Asturias"
-categories: junk
+permalink: /gamoniteiro
+#categories: junk
 #author:
 #- Author1
 #- Author2
@@ -19,7 +20,7 @@ En el año 1964, se inaguró oficialmente el Gamoniteiro por parte de Manuel Fra
 
 # Gamoniteiro: La Nochebuena en el techo de Asturias
 
-<center><img src="../images/gamoniteiro_1.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_1.jpg?raw=true" style="width:50%"></center>
 
 > Los tecnicos de TV pasan la fiesta pendientes del control de la emisora.
 
@@ -33,9 +34,9 @@ En el año 1964, se inaguró oficialmente el Gamoniteiro por parte de Manuel Fra
 que acaban los programas de televisión y de radio".
 
 
-<center><img src="../images/gamoniteiro_2.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_2.jpg?raw=true" style="width:50%"></center>
 
-<center><img src="../images/gamoniteiro_3.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_3.jpg?raw=true" style="width:50%"></center>
 
 El «jeep» se detuvo sin fuerzas en el limite blanco del camino.
 El rugido del motor habia agotado su potencia
@@ -51,7 +52,7 @@ de una cuchilla de afeitar; las suelas de las botas
 de los nuevos sherpas de la cumbre,
 y los pasos sigilosos y acechantes de los lobos.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_4.jpg" style="width:50%"></center>
+<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_4.jpg?raw=true" style="width:50%"></center>
 Dos horas y media de camino hasta la cumbre
 
 Durante el largo invierno del Gamoniteiro, catorce hombres
