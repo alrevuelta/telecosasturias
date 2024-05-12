@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🥂 #NocheDeLasTelecomunicaciones
+title: 🥂 NocheDeLasTelecomunicaciones
 permalink: /nochetelecomunicaciones/
 ---
 
