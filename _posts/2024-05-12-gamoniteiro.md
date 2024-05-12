@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gamoniteiro: La Nochebuena en el techo de Asturias"
-permalink: /gamoniteiro
+permalink: /posts/gamoniteiro
 #categories: junk
 #author:
 #- Author1
@@ -52,7 +52,7 @@ de una cuchilla de afeitar; las suelas de las botas
 de los nuevos sherpas de la cumbre,
 y los pasos sigilosos y acechantes de los lobos.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_4.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_4.jpg?raw=true" style="width:50%"></center>
 Dos horas y media de camino hasta la cumbre
 
 Durante el largo invierno del Gamoniteiro, catorce hombres
@@ -63,7 +63,7 @@ lo sostienen a través de un pequeño monitor de imagen
 que les acompaña a lo largo de toda la jornada,
 incluso en las horas de las comidas.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_5.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_5.jpg?raw=true" style="width:50%"></center>
 Nostalgia en lacomida de nochebuena
 
 Ellos son los hombres a través de cuyas manos pasan cada día
@@ -79,7 +79,7 @@ Son las once de la mañana y comenzamos la escalada hacia el techo habitado de l
 cinco kilómetros de ascensión por un camino de nieve hasta llegar a la cumbre de
 mil ochocientos metros de altura.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_6.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_6.jpg?raw=true" style="width:50%"></center>
 El «jeep» detuvo su motor en el límite de la nieve
 
 Esta cifra imaginada fríamente, es desalentadora: con cada paso cansino
@@ -129,7 +129,7 @@ con los estudios de radio nacional de Oviedo, con el reemisor de Pajares, con
 los de Sollube y Matadeón. Pero lo usamos en casos de necesidad. Sin embargo hoy
 nos llamaremos todos para felicitarnos las pascuas"
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_7.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_7.jpg?raw=true" style="width:50%"></center>
 Cambio de impresiones sobre el trabajo
 
 Se han levantado, como todos los días, a las seis y
@@ -147,7 +147,7 @@ trabajos, además de atender las emisoras de radio"
 El edificio está dividido en dos partes: una de ellas la
 dedicada a vivienda y el resto lo ocupan las instalaciones de las emisoras.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_8.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_8.jpg?raw=true" style="width:50%"></center>
 Estudio de un problema en una di las habitaciones de la casa
 
 Juan Arrúe está sentado en una mesa y anota algunas incidencias de la jornada.
@@ -156,7 +156,7 @@ Los otros compañeros vigilan el monitor.
 
 > "No tenemos tiempo para aburrirnos. Siempre hay algo que hacer"
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_9.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_9.jpg?raw=true" style="width:50%"></center>
 Saturnino Morales, subcampeón de fondo hace 24 años
 
 Desde hace algunas semanas la imagen que llega
@@ -175,7 +175,7 @@ corresponden a la imager local: es la imagen que provoca cientos de protestas en
 toda la provincia; la imagen que hace casi un mes apareció ininterrumpidamente durante
 varios días en las pantallas: los cuadros.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_10.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_10.jpg?raw=true" style="width:50%"></center>
 Localizada la avería en el cable de conducción eléctrica
 
 Cerca del panel, sobre una mesa,
@@ -196,7 +196,7 @@ Si hay mucha nieve no se
 puede realizar el relevo, como ocurrió hace un mes.
 Nosotros tuvimos que permanecer aquí durante tres días más.
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_11.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_11.jpg?raw=true" style="width:50%"></center>
 Camino hacia la cumbre
 
 Por otra parte tememos las tormentas.
@@ -242,7 +242,7 @@ porque cortes de varios días no se producían desde hace
 dos años. Por otra parte, en otros países se han realizado grandes inversiones que
 posiblemente nosotros no podamos hacer. Tal vez algún día lleguemos a ello"
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_12.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_12.jpg?raw=true" style="width:50%"></center>
 Aparato para localizar la avería en el cable
 
 ## Una comida con nostalgia
@@ -301,7 +301,7 @@ tiene cuarenta y tres años.
 > "Participé en competiciones hasta el año 1950, luego comencé a trabajar
 aunque nunca dejé de hacer deporte. Ahora casi a la fuerza..."
 
-<center><img src="https://github.com/alrevuelta/telecosasturias/blob/master/images/gamoniteiro_13.jpg" style="width:50%"></center>
+<center><img src="../images/gamoniteiro_13.jpg?raw=true" style="width:50%"></center>
 La difícil escalada en los días de nieve intensa
 
 
