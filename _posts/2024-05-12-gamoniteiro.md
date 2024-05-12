@@ -33,8 +33,11 @@ En el año 1964, se inaguró oficialmente el Gamoniteiro por parte de Manuel Fra
 > "Se levantan todos los días a las seis de la mañana y uno de ellos esta en pie hasta
 que acaban los programas de televisión y de radio".
 
+<figure>
+  <img src="../images/gamoniteiro_2.jpg?raw=true" style="width:50%"/>
+  <figcaption>An elephant at sunset</figcaption>
+</figure>
 
-<center><img src="../images/gamoniteiro_2.jpg?raw=true" style="width:50%"></center>
 
 <center><img src="../images/gamoniteiro_3.jpg?raw=true" style="width:50%"></center>
 
