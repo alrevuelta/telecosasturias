@@ -18,7 +18,7 @@ Años más tarde, en el 1963 se inician los estudios para crear un C.E. de telev
 
 En el año 1964, se inaguró oficialmente el Gamoniteiro por parte de Manuel Fraga Iribarne, ministro Información y Turismo entre los años 1962 y 1969. La inaguración se produjo en Oviedo, en la bendición de las nuevas Instalaciones de Radio Nacional de España. La primera transmisión no fue con programa sino con la carta de ajuste, el "damero maldito" como le llamaban en Asturias. Los siguientes años, no estuvieron exentos de desafíos, siendo las interrupciones del servicio habituales.
 
-# Gamoniteiro: La Nochebuena en el techo de Asturias
+## La Nochebuena en el techo de Asturias
 
 <center><img src="../images/gamoniteiro_1.jpg?raw=true" style="width:50%"></center>
 
@@ -36,11 +36,16 @@ que acaban los programas de televisión y de radio".
 <center>
 <figure>
   <img src="../images/gamoniteiro_2.jpg?raw=true" style="width:50%"/>
-  <figcaption>An elephant at sunset</figcaption>
+  <figcaption>El árbol de Navidad a hombros de los técnicos</figcaption>
 </figure>
 </center>
 
-<center><img src="../images/gamoniteiro_3.jpg?raw=true" style="width:50%"></center>
+<center>
+<figure>
+  <img src="../images/gamoniteiro_3.jpg?raw=true" style="width:50%"/>
+  <figcaption>Los esquíes, elementos imprescindibles en el trabajo</figcaption>
+</figure>
+</center>
 
 El «jeep» se detuvo sin fuerzas en el limite blanco del camino.
 El rugido del motor habia agotado su potencia
@@ -56,8 +61,12 @@ de una cuchilla de afeitar; las suelas de las botas
 de los nuevos sherpas de la cumbre,
 y los pasos sigilosos y acechantes de los lobos.
 
-<center><img src="../images/gamoniteiro_4.jpg?raw=true" style="width:50%"></center>
-Dos horas y media de camino hasta la cumbre
+<center>
+<figure>
+  <img src="../images/gamoniteiro_4.jpg?raw=true" style="width:50%"/>
+  <figcaption>Dos horas y media de camino hasta la cumbre</figcaption>
+</figure>
+</center>
 
 Durante el largo invierno del Gamoniteiro, catorce hombres
 en dos turnos y un matrimonio residente conviven en el reducido mundo de una casa
@@ -67,8 +76,12 @@ lo sostienen a través de un pequeño monitor de imagen
 que les acompaña a lo largo de toda la jornada,
 incluso en las horas de las comidas.
 
-<center><img src="../images/gamoniteiro_5.jpg?raw=true" style="width:50%"></center>
-Nostalgia en lacomida de nochebuena
+<center>
+<figure>
+  <img src="../images/gamoniteiro_5.jpg?raw=true" style="width:50%"/>
+  <figcaption>Nostalgia en lacomida de nochebuena</figcaption>
+</figure>
+</center>
 
 Ellos son los hombres a través de cuyas manos pasan cada día
 las imágenes de la televisión que llegan a cientos de hogares asturianos.
@@ -83,8 +96,12 @@ Son las once de la mañana y comenzamos la escalada hacia el techo habitado de l
 cinco kilómetros de ascensión por un camino de nieve hasta llegar a la cumbre de
 mil ochocientos metros de altura.
 
-<center><img src="../images/gamoniteiro_6.jpg?raw=true" style="width:50%"></center>
-El «jeep» detuvo su motor en el límite de la nieve
+<center>
+<figure>
+  <img src="../images/gamoniteiro_6.jpg?raw=true" style="width:50%"/>
+  <figcaption>El «jeep» detuvo su motor en el límite de la nieve</figcaption>
+</figure>
+</center>
 
 Esta cifra imaginada fríamente, es desalentadora: con cada paso cansino
 me imaginaba la ascensión a esa cumbre de números
@@ -133,8 +150,12 @@ con los estudios de radio nacional de Oviedo, con el reemisor de Pajares, con
 los de Sollube y Matadeón. Pero lo usamos en casos de necesidad. Sin embargo hoy
 nos llamaremos todos para felicitarnos las pascuas"
 
-<center><img src="../images/gamoniteiro_7.jpg?raw=true" style="width:50%"></center>
-Cambio de impresiones sobre el trabajo
+<center>
+<figure>
+  <img src="../images/gamoniteiro_7.jpg?raw=true" style="width:50%"/>
+  <figcaption>Cambio de impresiones sobre el trabajo</figcaption>
+</figure>
+</center>
 
 Se han levantado, como todos los días, a las seis y
 cuarto de la mañana. Es la hora en que comienza su jornada de trabajo:
@@ -151,36 +172,45 @@ trabajos, además de atender las emisoras de radio"
 El edificio está dividido en dos partes: una de ellas la
 dedicada a vivienda y el resto lo ocupan las instalaciones de las emisoras.
 
-<center><img src="../images/gamoniteiro_8.jpg?raw=true" style="width:50%"></center>
-Estudio de un problema en una di las habitaciones de la casa
+<center>
+<figure>
+  <img src="../images/gamoniteiro_8.jpg?raw=true" style="width:50%"/>
+  <figcaption>Estudio de un problema en una di las habitaciones de la casa</figcaption>
+</figure>
+</center>
 
 Juan Arrúe está sentado en una mesa y anota algunas incidencias de la jornada.
-
 Los otros compañeros vigilan el monitor.
 
 > "No tenemos tiempo para aburrirnos. Siempre hay algo que hacer"
 
-<center><img src="../images/gamoniteiro_9.jpg?raw=true" style="width:50%"></center>
-Saturnino Morales, subcampeón de fondo hace 24 años
+<center>
+<figure>
+  <img src="../images/gamoniteiro_9.jpg?raw=true" style="width:50%"/>
+  <figcaption>Saturnino Morales, subcampeón de fondo hace 24 años</figcaption>
+</figure>
+</center>
 
 Desde hace algunas semanas la imagen que llega
-a Asturias se recibe vía Sollube a través de los enlaces de la costa:
-
+a Asturias se recibe vía Sollube a través de los enlaces de la costa.
 La emisora de TV se controla desde un panel de
 conmutación y control tanto de imagen como de sonido.
 
 A través de esas pequeñas teclas seleccionamos la imagen, bien la
 procedente de Pajares o la de Sollube, le que con más claridad se reciba.
-
 Salvo en este momento en que no tenemos más opción que la de Sollube.
 
-En el panel hay tambiér unas pequeñas teclas que
-corresponden a la imager local: es la imagen que provoca cientos de protestas en
+En el panel hay también unas pequeñas teclas que
+corresponden a la imagen local: es la imagen que provoca cientos de protestas en
 toda la provincia; la imagen que hace casi un mes apareció ininterrumpidamente durante
 varios días en las pantallas: los cuadros.
 
-<center><img src="../images/gamoniteiro_10.jpg?raw=true" style="width:50%"></center>
-Localizada la avería en el cable de conducción eléctrica
+<center>
+<figure>
+  <img src="../images/gamoniteiro_10.jpg?raw=true" style="width:50%"/>
+  <figcaption>Localizada la avería en el cable de conducción eléctrica</figcaption>
+</figure>
+</center>
 
 Cerca del panel, sobre una mesa,
 está el magnetofóno que acompaña a los cuadros en las horas sin imagen.
@@ -200,12 +230,14 @@ Si hay mucha nieve no se
 puede realizar el relevo, como ocurrió hace un mes.
 Nosotros tuvimos que permanecer aquí durante tres días más.
 
-<center><img src="../images/gamoniteiro_11.jpg?raw=true" style="width:50%"></center>
-Camino hacia la cumbre
+<center>
+<figure>
+  <img src="../images/gamoniteiro_11.jpg?raw=true" style="width:50%"/>
+  <figcaption>Camino hacia la cumbre</figcaption>
+</figure>
+</center>
 
-Por otra parte tememos las tormentas.
-
-Para los técnicos del Gamoniteiro el día más largo es
+Por otra parte tememos las tormentas. Para los técnicos del Gamoniteiro el día más largo es
 el del relevo, porque es el día que rompe el aislamiento de una semana:
 
 > "Contamos, los minutos y hasta los segundos"
@@ -246,10 +278,14 @@ porque cortes de varios días no se producían desde hace
 dos años. Por otra parte, en otros países se han realizado grandes inversiones que
 posiblemente nosotros no podamos hacer. Tal vez algún día lleguemos a ello"
 
-<center><img src="../images/gamoniteiro_12.jpg?raw=true" style="width:50%"></center>
-Aparato para localizar la avería en el cable
+<center>
+<figure>
+  <img src="../images/gamoniteiro_12.jpg?raw=true" style="width:50%"/>
+  <figcaption>Aparato para localizar la avería en el cable</figcaption>
+</figure>
+</center>
 
-## Una comida con nostalgia
+## Una comida con nostalgia
 
 A las tres de la tarde, el matrimonio residente comienza los preparativos
 para la comida y los escasos miembros de la comunidad van ocupando sus puestos
@@ -305,8 +341,12 @@ tiene cuarenta y tres años.
 > "Participé en competiciones hasta el año 1950, luego comencé a trabajar
 aunque nunca dejé de hacer deporte. Ahora casi a la fuerza..."
 
-<center><img src="../images/gamoniteiro_13.jpg?raw=true" style="width:50%"></center>
-La difícil escalada en los días de nieve intensa
+<center>
+<figure>
+  <img src="../images/gamoniteiro_13.jpg?raw=true" style="width:50%"/>
+  <figcaption>La difícil escalada en los días de nieve intensa</figcaption>
+</figure>
+</center>
 
 
 ## Referencias
