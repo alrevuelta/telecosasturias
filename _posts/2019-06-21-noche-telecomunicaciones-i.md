@@ -10,7 +10,8 @@ permalink: /posts/nochetelecomunicaciones-i
 ---
 
 La primera Noche de las Telecomunicaciones de Asturias se celebró el 21 de junio de
-2019. En este evento se dieron cita múltiples Ingenieros de Telecomunicación y
+2019.
+En este evento se dieron cita múltiples Ingenieros de Telecomunicación y
 representantes de las empresas más importantes de nuestra comunidad autónoma, así
 como compañeros de los Colegios y Asociaciones de Ingenieros de Telecomunicación
 de toda España.
