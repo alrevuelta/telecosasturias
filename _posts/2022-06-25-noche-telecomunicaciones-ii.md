@@ -15,7 +15,7 @@ información y las comunicaciones, representación de la Administración del Gob
 Principado de Asturias, del Ayuntamiento de Gijón, de la Universidad y del Colegio y Asociación
 de Ingenieros de Telecomunicación a nivel nacional.
 
-<center><img src="../images/noche1-1.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-1.jpg?raw=true" style="width:50%"></center>
 
 D. Fernando Las-Heras, decano delegado del COIT y presidente de la delegación de la AEIT en
 Asturias inauguró el acto dando la bienvenida a los asistentes y repasando la evolución de las
@@ -27,7 +27,7 @@ profesionales altamente cualificados con una formación totalmente transversal, 
 versátiles, con grandes capacidades de gestión y amplios conocimientos técnicos que hace que
 estén muy demandados por todas las empresas, no únicamente las empresas tecnológicas.
 
-<center><img src="../images/noche1-2.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-2.jpg?raw=true" style="width:50%"></center>
 
 A continuación, de manera telemática se contó con la intervención de D. Roberto Sánchez
 Sánchez, Secretario de Estado de Telecomunicaciones e Infraestructuras Digitales, quien no
@@ -43,7 +43,7 @@ calidad de los estudios de Grado y Máster en la Escuela Politécnica de Ingenie
 increíble equipo docente e investigador con el que cuenta, que recientemente se ha alzado
 con el Premio Hispasat al mejor trabajo doctoral en sistemas de comunicación vía satélite.
 
-<center><img src="../images/noche1-3.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-3.jpg?raw=true" style="width:50%"></center>
 
 En el evento se entregaron dos galardones:
 * Premio a la Trayectora Empresarial
@@ -57,7 +57,7 @@ las empresas para cuidar al colectivo de los ingenieros de Telecomunicación, d�
 que se merecen y apostando por salarios acordes a su formación y a la alta demanda en el
 sector.
 
-<center><img src="../images/noche1-4.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-4.jpg?raw=true" style="width:50%"></center>
 
 El Premio Orange fue para la Primera Promoción de los Ingenieros de Telecomunicación de la
 Universidad de Oviedo, con una amplia representación en el evento. D. Jorge Manuel Enríquez
@@ -67,7 +67,7 @@ calidad humana y su capacidad para trabajar en equipo durante los años de carre
 colaboración y compañerismo que ha perdurado desde el comienzo de los estudios en el año
 2000 hasta el día de hoy.
 
-<center><img src="../images/noche1-5.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-5.jpg?raw=true" style="width:50%"></center>
 
 A continuación D. Javier Fernández Rodríguez, Director General de Seguridad y Estrategia
 Digital en el Gobierno del Principado de Asturias dio la enhorabuena a los premiados.
@@ -77,7 +77,7 @@ innovación e impulso tecnológico que tiene la Administración del Principado d
 le permite situarse como referencia y motor para el progreso digital de la sociedad y el tejido
 empresarial.
 
-<center><img src="../images/noche1-7.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-7.jpg?raw=true" style="width:50%"></center>
 
 Para finalizar, Dña. Marta Balenciaga Arrieta, Decana Presidenta del Colegio Oficial de
 Ingenieros de Telecomunicación y Presidenta de la Asociación Española de Ingenieros de
@@ -88,7 +88,7 @@ esta digitalización global y está presente en ámbitos tan importantes como el
 en estos momentos en Asturias, que pasará de una dependencia energética de combustibles
 fósiles a un modelo basado en energías limpias.
 
-<center><img src="../images/noche1-6.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-6.jpg?raw=true" style="width:50%"></center>
 
 El patrocinio del evento corrió a cargo de:
 * Alisys
@@ -100,13 +100,13 @@ El patrocinio del evento corrió a cargo de:
 * Conecta Industria
 
 El evento también contó con la presencia de la televisión local de Asturias, RTPA.
-<center><img src="../images/noche1-8.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-8.jpg?raw=true" style="width:50%"></center>
 
 Tras un cocktail, pudimos disfrutar de una cena en el restaurante Somió Park de Gijón/Xixón.
-<center><img src="../images/noche1-9.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-9.jpg?raw=true" style="width:50%"></center>
 
 
 ¡Nos vemos en la próxima edición!
 
-<center><img src="../images/noche1-10.jpg?raw=true" style="width:50%"></center>
+<center><img src="../images/noche2-10.jpg?raw=true" style="width:50%"></center>
 
