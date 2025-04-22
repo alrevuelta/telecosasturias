@@ -15,7 +15,7 @@ El pasado viernes 23 de junio de 2023, los ingenieros de Telecomunicación del P
 
 El evento reunió a profesionales de diferentes ámbitos de las tecnologías de la información y las comunicaciones, empresas TIC, autoridades del Gobierno del Principado de Asturias, de la Universidad y del Colegio y Asociación de Ingenieros de Telecomunicación a nivel nacional.
 
-También contó con el patrocinio de patrocinios de:
+También contó con el patrocinio de:
 * Orange
 * Cellnex
 * Inetum
@@ -44,7 +44,7 @@ D. Ángel Colao, CEO de Aritium presentó su conferencia sobre el Internet de la
 <center><img src="../images/noche3-5.jpg?raw=true" style="width:50%"></center>
 
 La velada continuó con la entrega de siguientes galardones:
-* Premio a la Trayectora Profesional
+* Premio a la Trayectoria Profesional
 * Premio al Joven Emprendedor
 * Premio Orange Joven Investigador
 
@@ -52,7 +52,7 @@ Raquel Gracia, en representación de la Delegación AEIT en Asturias presentó l
 
 <center><img src="../images/noche3-6.jpg?raw=true" style="width:50%"></center>
  
-El Premio a la Trayectora Profesional fue otorgado a D. Marcos Viniegra Pacheco, quien desarrolló su carrera en Telefónica y participó en la creación de la infraestructura de fibra óptica interurbana y redes móviles de primera y segunda generación. D. Mariano Martínez hizo entrega del premio en representación del Colegio Oficial de Ingenieros de Telecomunicación.
+El Premio a la Trayectoria Profesional fue otorgado a D. Marcos Viniegra Pacheco, quien desarrolló su carrera en Telefónica y participó en la creación de la infraestructura de fibra óptica interurbana y redes móviles de primera y segunda generación. D. Mariano Martínez hizo entrega del premio en representación del Colegio Oficial de Ingenieros de Telecomunicación.
 
 <center><img src="../images/noche3-7.jpg?raw=true" style="width:50%"></center>
 
