@@ -19,12 +19,16 @@ hemos logrado afianzar la Noche de las
 Telecomunicaciones en Asturias como
 punto de encuentro entre los
 profesionales del sector.
+
+
 En este 2025 lanzamos la V Noche de las
 Telecomunicaciones que, nuevamente,
 quiere combinar el reconocimiento de la
 profesión y ser un espacio para fomentar
 las relaciones profesionales y de
 camaradería.
+
+<center><img src="../images/cartel5.jpg?raw=true" style="width:50%"></center>
 
 El acto constará de una recepción y un
 espacio para "networking", charla-mesa
@@ -33,8 +37,6 @@ Posteriormente, todos los asistentes
 tendrán la oportunidad de disfrutar de
 una cena de gala.
 
-Un agradecimiento a nuestros patrocinadores:
-* 🥇 Mas Orange
-* 🥈 Arcelor
-* 🥉 Cellnew
-* 🥉 Gijón Impulsa
+Un agradecimiento a nuestros patrocinadores.
+
+<center><img src="../images/patrocinadores5.jpg?raw=true" style="width:50%"></center>
