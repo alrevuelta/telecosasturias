@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🥂 V Noche de las Telecomunicaciones de Asturias"
+title: "V Noche de las Telecomunicaciones de Asturias"
 permalink: /posts/nochetelecomunicaciones-v
 #categories: junk
 #author:

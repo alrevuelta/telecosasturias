@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🥂 III Noche de las Telecomunicaciones de Asturias"
+title: "III Noche de las Telecomunicaciones de Asturias"
 permalink: /posts/nochetelecomunicaciones-iii
 #categories: junk
 #author:
